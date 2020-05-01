@@ -25,7 +25,7 @@ Then 4 is the first bad version.
 -------------------------------------------------------------------------------------------------------------------------
 solution 
 Language:  C++
-Algotithm: Binary Search
+Algorithm: Binary Search
 
 
 // The API isBadVersion is defined for you.
